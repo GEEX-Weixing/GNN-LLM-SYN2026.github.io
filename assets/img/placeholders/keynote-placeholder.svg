@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Keynote placeholder">
+  <defs><linearGradient id="k" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0d2033"/><stop offset="1" stop-color="#1c3147"/></linearGradient></defs>
+  <rect width="640" height="360" rx="34" fill="url(#k)"/>
+  <circle cx="500" cy="80" r="96" fill="#71c7d6" opacity=".14"/>
+  <circle cx="112" cy="278" r="112" fill="#d9b56c" opacity=".10"/>
+  <rect x="72" y="78" width="250" height="22" rx="11" fill="#fff" opacity=".30"/>
+  <rect x="72" y="130" width="420" height="18" rx="9" fill="#fff" opacity=".18"/>
+  <rect x="72" y="170" width="360" height="18" rx="9" fill="#fff" opacity=".14"/>
+  <text x="72" y="260" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800" fill="#fff">Keynote TBA</text>
+  <text x="72" y="296" font-family="Inter,Arial,sans-serif" font-size="18" fill="#c9dbe4">speaker · title · abstract · bio</text>
+</svg>
